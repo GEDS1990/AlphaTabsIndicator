@@ -25,7 +25,7 @@
             app:badgeBackgroundColor="@android:color/holo_blue_dark"
             app:tabIconNormal="@mipmap/home_normal"
             app:tabIconSelected="@mipmap/home_selected"
-            app:tabText="微信"
+            app:tabText="放贷"
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
@@ -38,7 +38,7 @@
             app:badgeBackgroundColor="@android:color/black"
             app:tabIconNormal="@mipmap/category_normal"
             app:tabIconSelected="@mipmap/category_selected"
-            app:tabText="通讯录"
+            app:tabText="贷款"
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
@@ -87,7 +87,7 @@
             android:padding="5dp"
             app:tabIconNormal="@mipmap/home_normal"
             app:tabIconSelected="@mipmap/home_selected"
-            app:tabText="微信"
+            app:tabText="放贷"
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
@@ -99,7 +99,7 @@
             android:padding="5dp"
             app:tabIconNormal="@mipmap/category_normal"
             app:tabIconSelected="@mipmap/category_selected"
-            app:tabText="通讯录"
+            app:tabText="贷款"
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
@@ -146,7 +146,7 @@
             android:padding="5dp"
             app:tabIconNormal="@mipmap/home_normal"
             app:tabIconSelected="@mipmap/home_selected"
-            app:tabText="微信"
+            app:tabText="放贷"
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
@@ -158,7 +158,7 @@
             android:padding="5dp"
             app:tabIconNormal="@mipmap/category_normal"
             app:tabIconSelected="@mipmap/category_selected"
-            app:tabText="通讯录"
+            app:tabText="贷款"
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
@@ -245,7 +245,7 @@
             app:badgeBackgroundColor="@android:color/holo_blue_dark"
             app:tabIconNormal="@mipmap/home_normal"
             app:tabIconSelected="@mipmap/home_selected"
-            app:tabText="微信"
+            app:tabText="放贷"
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
@@ -258,7 +258,7 @@
             app:badgeBackgroundColor="@android:color/black"
             app:tabIconNormal="@mipmap/category_normal"
             app:tabIconSelected="@mipmap/category_selected"
-            app:tabText="通讯录"
+            app:tabText="贷款"
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />

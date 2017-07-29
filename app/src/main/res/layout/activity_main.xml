@@ -3,8 +3,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
-
-    <android.support.v4.view.ViewPager
+    <WebView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/webView"
+    />
+    <!--<android.support.v4.view.ViewPager
         android:id="@+id/mViewPager"
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -69,5 +73,5 @@
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
-    </com.yinglan.alphatabs.AlphaTabsIndicator>
+    </com.yinglan.alphatabs.AlphaTabsIndicator>-->
 </LinearLayout>

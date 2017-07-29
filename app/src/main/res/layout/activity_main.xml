@@ -28,7 +28,7 @@
             android:padding="5dp"
             app:tabIconNormal="@mipmap/home_normal"
             app:tabIconSelected="@mipmap/home_selected"
-            app:tabText="微信"
+            app:tabText="投资"
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
@@ -40,7 +40,7 @@
             android:padding="5dp"
             app:tabIconNormal="@mipmap/category_normal"
             app:tabIconSelected="@mipmap/category_selected"
-            app:tabText="通讯录"
+            app:tabText="贷款"
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
@@ -52,7 +52,7 @@
             android:padding="5dp"
             app:tabIconNormal="@mipmap/service_normal"
             app:tabIconSelected="@mipmap/service_selected"
-            app:tabText="发现"
+            app:tabText="商机"
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />

@@ -30,16 +30,16 @@ public class MainActivity extends AppCompatActivity {
         alphaTabsIndicator.setViewPager(mViewPger);
 
         alphaTabsIndicator.getTabView(0).showNumber(6);
-        alphaTabsIndicator.getTabView(1).showNumber(888);
-        alphaTabsIndicator.getTabView(2).showNumber(88);
-        alphaTabsIndicator.getTabView(3).showPoint();
+        alphaTabsIndicator.getTabView(1).showNumber(6);
+        alphaTabsIndicator.getTabView(2).showNumber(6);
+        alphaTabsIndicator.getTabView(4).showPoint();
     }
 
 
     private class MainAdapter extends FragmentPagerAdapter implements ViewPager.OnPageChangeListener {
 
         private List<Fragment> fragments = new ArrayList<>();
-        private String[] titles = {"微信", "通讯录", "发现", "我"};
+        private String[] titles = {"投资", "贷款", "商机", "我"};
 
         public MainAdapter(FragmentManager fm) {
             super(fm);

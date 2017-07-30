@@ -69,5 +69,6 @@
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
+
     </com.yinglan.alphatabs.AlphaTabsIndicator>
 </LinearLayout>

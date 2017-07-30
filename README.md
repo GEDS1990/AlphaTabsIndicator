@@ -1,7 +1,7 @@
 # AlphaTabsIndicator
-高仿微信底部状态栏的轻量级库，适用多数底部状态栏应用需求
+高仿放贷底部状态栏的轻量级库，适用多数底部状态栏应用需求
 ## Abstract 摘要
-仿微信底部tab标签，滑动的时候颜色渐变，增加角标功能, 使用极其简单，只需要两行代码。
+仿放贷底部tab标签，滑动的时候颜色渐变，增加角标功能, 使用极其简单，只需要两行代码。
 
 
 ## Gif 动画
@@ -129,7 +129,7 @@ dependencies {
 ####Instructions - 说明
 本库是在征得[jeasonlzy](https://github.com/jeasonlzy)的许可后,在其[AlphaIndicatorView](https://github.com/jeasonlzy/AlphaIndicatorView)基础上做的易用性改进,感谢,现持续开源。
 ##改进项主要有:
-1. 增加角标,使其更接近微信底部tab;
+1. 增加角标,使其更接近放贷底部tab;
 1. 对角标的大小进行动态控制,会根据tab高度自适应;
 1. 对使用要求限制适当降低,可以在不绑定viewpager的情况下使用;
 1. 增加点击tab的监听回调;

@@ -13,7 +13,16 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="1px"
-        android:background="#888" />
+        android:background="#888" >
+        <!--投资数据 start-->
+        <android.support.v7.widget.ListViewCompat
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+        />
+        <!--投资数据 end-->
+    </View>
+
 
     <org.chinaxin.tabs.AlphaTabsIndicator
         android:id="@+id/alphaIndicator"
@@ -32,14 +41,6 @@
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
-
-        <!--投资数据 start-->
-        <android.support.v7.widget.ListViewCompat
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-        />
-        <!--投资数据 end-->
 
         <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"

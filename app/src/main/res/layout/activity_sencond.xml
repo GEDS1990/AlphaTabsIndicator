@@ -7,9 +7,9 @@
     android:layout_height="match_parent"
     android:background="@android:color/darker_gray"
     android:orientation="vertical"
-    tools:context="com.yinglan.alphatabsindicator.SencondActivity">
+    tools:context="com.yinglan.alphatabsindicator.org.yinglan.alphatabsindicator.SencondActivity">
 
-    <com.yinglan.alphatabs.AlphaTabsIndicator
+    <org.chinaxin.tabs.AlphaTabsIndicator
         android:id="@+id/alphaIndicator"
         android:layout_width="match_parent"
         android:layout_height="55dp"
@@ -17,7 +17,7 @@
         android:background="@android:color/white"
         android:orientation="horizontal">
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -30,7 +30,7 @@
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -43,7 +43,7 @@
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -57,7 +57,7 @@
             app:textColorSelected="#46c01b" />
 
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -69,10 +69,10 @@
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
-    </com.yinglan.alphatabs.AlphaTabsIndicator>
+    </org.chinaxin.tabs.AlphaTabsIndicator>
 
 
-    <com.yinglan.alphatabs.AlphaTabsIndicator
+    <org.chinaxin.tabs.AlphaTabsIndicator
         android:id="@+id/alphaIndicator1"
         android:layout_width="match_parent"
         android:layout_height="40dp"
@@ -80,7 +80,7 @@
         android:background="@android:color/white"
         android:orientation="horizontal">
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -92,7 +92,7 @@
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -104,7 +104,7 @@
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -117,7 +117,7 @@
             app:textColorSelected="#46c01b" />
 
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -129,9 +129,9 @@
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
-    </com.yinglan.alphatabs.AlphaTabsIndicator>
+    </org.chinaxin.tabs.AlphaTabsIndicator>
 
-    <com.yinglan.alphatabs.AlphaTabsIndicator
+    <org.chinaxin.tabs.AlphaTabsIndicator
         android:id="@+id/alphaIndicator2"
         android:layout_width="match_parent"
         android:layout_height="55dp"
@@ -139,7 +139,7 @@
         android:background="@android:color/white"
         android:orientation="horizontal">
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -151,7 +151,7 @@
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -163,7 +163,7 @@
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -176,7 +176,7 @@
             app:textColorSelected="#46c01b" />
 
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -188,7 +188,7 @@
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -201,7 +201,7 @@
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -214,7 +214,7 @@
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -226,10 +226,10 @@
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
-    </com.yinglan.alphatabs.AlphaTabsIndicator>
+    </org.chinaxin.tabs.AlphaTabsIndicator>
 
 
-    <com.yinglan.alphatabs.AlphaTabsIndicator
+    <org.chinaxin.tabs.AlphaTabsIndicator
         android:id="@+id/alphaIndicator3"
         android:layout_width="55dp"
         android:layout_height="match_parent"
@@ -237,7 +237,7 @@
         android:background="@android:color/white"
         android:orientation="vertical">
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
@@ -250,7 +250,7 @@
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
@@ -263,7 +263,7 @@
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
@@ -277,7 +277,7 @@
             app:textColorSelected="#46c01b" />
 
 
-        <com.yinglan.alphatabs.AlphaTabView
+        <org.chinaxin.tabs.AlphaTabView
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
@@ -289,5 +289,5 @@
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
-    </com.yinglan.alphatabs.AlphaTabsIndicator>
+    </org.chinaxin.tabs.AlphaTabsIndicator>
 </LinearLayout>

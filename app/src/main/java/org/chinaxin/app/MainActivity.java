@@ -1,4 +1,4 @@
-package com.yinglan.alphatabsindicator;
+package org.chinaxin.app;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -7,7 +7,7 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.yinglan.alphatabs.AlphaTabsIndicator;
+import org.chinaxin.tabs.AlphaTabsIndicator;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         alphaTabsIndicator.getTabView(0).showNumber(6);
         alphaTabsIndicator.getTabView(1).showNumber(6);
         alphaTabsIndicator.getTabView(2).showNumber(6);
-        alphaTabsIndicator.getTabView(4).showPoint();
+        alphaTabsIndicator.getTabView(3).showPoint();
     }
 
 

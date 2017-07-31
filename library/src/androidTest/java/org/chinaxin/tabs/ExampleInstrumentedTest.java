@@ -1,4 +1,4 @@
-package com.yinglan.alphatabsindicator;
+package org.chinaxin.tabs;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.yinglan.alphatabsindicator", appContext.getPackageName());
+        assertEquals("com.chinaxin.tabs.test", appContext.getPackageName());
     }
 }

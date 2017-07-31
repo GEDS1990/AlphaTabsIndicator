@@ -1,4 +1,4 @@
-package com.yinglan.alphatabsindicator;
+package org.chinaxin.app;
 
 import android.content.Intent;
 import android.os.Bundle;

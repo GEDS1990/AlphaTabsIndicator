@@ -1,4 +1,4 @@
-package com.yinglan.alphatabsindicator;
+package org.chinaxin.tabs;
 
 import org.junit.Test;
 

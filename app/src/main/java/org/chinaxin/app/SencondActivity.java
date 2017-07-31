@@ -1,11 +1,11 @@
-package com.yinglan.alphatabsindicator;
+package org.chinaxin.app;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import com.yinglan.alphatabs.AlphaTabsIndicator;
-import com.yinglan.alphatabs.OnTabChangedListner;
+import org.chinaxin.tabs.AlphaTabsIndicator;
+import org.chinaxin.tabs.OnTabChangedListner;
 
 public class SencondActivity extends AppCompatActivity {
 

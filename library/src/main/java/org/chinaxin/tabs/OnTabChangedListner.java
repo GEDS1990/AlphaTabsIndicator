@@ -1,4 +1,4 @@
-package com.yinglan.alphatabs;
+package org.chinaxin.tabs;
 
 /**
  * ================================================

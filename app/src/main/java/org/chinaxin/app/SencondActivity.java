@@ -13,6 +13,7 @@ public class SencondActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sencond);
+/*
 
         AlphaTabsIndicator alphaTabsIndicator0 = (AlphaTabsIndicator) findViewById(R.id.alphaIndicator);
         alphaTabsIndicator0.getTabView(0).showNumber(8);
@@ -25,6 +26,7 @@ public class SencondActivity extends AppCompatActivity {
         alphaTabsIndicator1.getTabView(1).showNumber(88);
         alphaTabsIndicator1.getTabView(2).showNumber(888);
         alphaTabsIndicator1.getTabView(3).showPoint();
+*/
 
         AlphaTabsIndicator alphaTabsIndicator2 = (AlphaTabsIndicator) findViewById(R.id.alphaIndicator2);
         alphaTabsIndicator2.getTabView(0).showNumber(8);

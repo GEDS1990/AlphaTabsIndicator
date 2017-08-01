@@ -7,7 +7,8 @@
     android:layout_height="match_parent"
     android:background="@android:color/darker_gray"
     android:orientation="vertical"
-    tools:context="com.yinglan.alphatabsindicator.org.yinglan.alphatabsindicator.SencondActivity">
+    tools:context="org.chinaxin.app.SencondActivity">
+<!--
 
     <org.chinaxin.tabs.AlphaTabsIndicator
         android:id="@+id/alphaIndicator"
@@ -130,6 +131,7 @@
             app:textColorNormal="#999999"
             app:textColorSelected="#46c01b" />
     </org.chinaxin.tabs.AlphaTabsIndicator>
+-->
 
     <org.chinaxin.tabs.AlphaTabsIndicator
         android:id="@+id/alphaIndicator2"
@@ -161,7 +163,8 @@
             app:tabText="贷款"
             app:tabTextSize="13sp"
             app:textColorNormal="#999999"
-            app:textColorSelected="#46c01b" />
+            app:textColorSelected="#46c01b"
+        />
 
         <org.chinaxin.tabs.AlphaTabView
             android:layout_width="0dp"
